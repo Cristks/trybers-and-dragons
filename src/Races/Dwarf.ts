@@ -10,11 +10,11 @@ class Dwarf extends Race {
     Dwarf._racesInstances += 1;
   }
 
-  public static createdRacesInstances(): number {
+  static createdRacesInstances(): number {
     return Dwarf._racesInstances;
   }
 
-  public get maxLifePoints(): number {
+  get maxLifePoints(): number {
     return this._maxLifePoints;
   }
 }
