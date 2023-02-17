@@ -101,5 +101,5 @@ $ cd sd-024-b-project-trybers-and-dragons
   </details>
  
   ## Desempenho alcançado
- 
+ ![WhatsApp Image 2023-02-17 at 12 22 11](https://user-images.githubusercontent.com/106772807/219756911-65d97ad5-557c-41ea-8584-5d517d509ed4.jpeg)
  
