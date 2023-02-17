@@ -102,6 +102,4 @@ $ cd sd-024-b-project-trybers-and-dragons
  
   
   ## Desempenho alcançado
-    <img align="center" alt="cristks-js" height="640" width="450" src="https://user-images.githubusercontent.com/106772807/219756911-65d97ad5-557c-41ea-8584-5d517d509ed4.jpeg"/>
- 
- 
+    
