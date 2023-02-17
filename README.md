@@ -71,32 +71,32 @@ $ cd sd-024-b-project-trybers-and-dragons
 
 ✅ 2. Criar classes que herdam de Race.
 
-- ✅ 3. Crie a interface Energy.
+✅ 3. Crie a interface Energy.
 
-- ✅ 4. Crie a classe Archetype.
+✅ 4. Crie a classe Archetype.
 
-- ✅ 5. Crie classes que herdam de Archetype.
+✅ 5. Crie classes que herdam de Archetype.
 
-- ✅ 6. Crie a interface Fighter.
+✅ 6. Crie a interface Fighter.
 
-- ✅ 7. Crie a classe Character.
+✅ 7. Crie a classe Character.
 
-- ✅ 8. Crie a interface SimpleFighter.
+✅ 8. Crie a interface SimpleFighter.
 
-- ✅ 9. Crie a classe Monster.
+✅ 9. Crie a classe Monster.
 
-- ✅ 10. Crie a classe PVP.
+✅ 10. Crie a classe PVP.
     </details>
   
 <details>
   
 <summary>Requesitos Bônus</summary><br /> 
 
-- ✅ 11. Crie a classe PVE.
+✅ 11. Crie a classe PVE.
 
-- ✅ 12. Crie a classe Dragon.
+✅ 12. Crie a classe Dragon.
 
-- ✅ 13. Crie objetos no arquivo index.
+✅ 13. Crie objetos no arquivo index.
   </details>
   </details>
  
