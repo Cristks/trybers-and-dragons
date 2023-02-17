@@ -97,9 +97,10 @@ $ cd sd-024-b-project-trybers-and-dragons
 ✅ 12. Crie a classe Dragon.
 
 ✅ 13. Crie objetos no arquivo index.
-  </details>
+  </details>![WhatsApp Image 2023-02-17 at 12 22 11](https://user-images.githubusercontent.com/106772807/219774955-a9419dcf-ea66-4f5d-9c56-1ac721fe720e.jpeg)
+
   </details>
  
   
   ## Desempenho alcançado
-    
+  ![WhatsApp Image 2023-02-17 at 12 22 11](https://user-images.githubusercontent.com/106772807/219756911-65d97ad5-557c-41ea-8584-5d517d509ed4.jpeg)
