@@ -2,7 +2,7 @@ import Energy from '../Energy';
 import SimpleFighter from './SimpleFigter';
 
 interface Fighter extends SimpleFighter { // aqui desmembramos a interface, pois parte do presuposto que tudo se incia de um lutador simples. é mais comum 
-  // lifePoints: number 
+  lifePoints: number 
   // strength: number
   defense: number
   energy?: Energy // ? significa opcional
