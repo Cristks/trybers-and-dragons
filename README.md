@@ -1,5 +1,5 @@
 
-# Boas vindos ao  projeto Trybers and Dragons!
+# :dragon: Boas vindos ao  projeto Trybers and Dragons! :dragon:
 
 
 
