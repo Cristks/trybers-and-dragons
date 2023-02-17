@@ -1,4 +1,4 @@
-# :construction: README customizado em construção ! :construction:
+
 # Boas vindos ao  projeto Trybers and Dragons!
 
 
