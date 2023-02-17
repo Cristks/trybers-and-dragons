@@ -104,3 +104,9 @@ $ cd sd-024-b-project-trybers-and-dragons
   
   ## Desempenho alcançado
   ![WhatsApp Image 2023-02-17 at 12 22 11](https://user-images.githubusercontent.com/106772807/219756911-65d97ad5-557c-41ea-8584-5d517d509ed4.jpeg) 
+  
+  <div align="center" margin="50px">
+	  <a href = "mailto:cristiane@samaan.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_white"></a>
+    <a href="https://www.linkedin.com/in/cristiane-kizelevicius-samaan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+	<a href="https://github.com/Cristks" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div>
