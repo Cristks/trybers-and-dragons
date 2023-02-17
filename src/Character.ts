@@ -3,6 +3,7 @@ import Fighter from './Fighter/Fighter';
 import Energy from './Energy';
 import Race, { Elf } from './Races';
 import getRandomInt from './utils';
+import { SimpleFighter } from './Fighter';
 
 class Character implements Fighter {
   // private _name: string;
@@ -70,7 +71,7 @@ class Character implements Fighter {
   }
 
   // fighter = lutadores
-  attack(enemy: Fighter): void {
+  attack(enemy: Fighter | SimpleFighter): void {
     enemy.receiveDamage(this._strength);
   }
 
