@@ -103,7 +103,10 @@ $ cd sd-024-b-project-trybers-and-dragons
  
   
   ## Desempenho alcançado
-  ![WhatsApp Image 2023-02-17 at 12 22 11](https://user-images.githubusercontent.com/106772807/219756911-65d97ad5-557c-41ea-8584-5d517d509ed4.jpeg) 
+  ![dragons1](https://user-images.githubusercontent.com/106772807/219825039-e2936ead-b77f-406a-ba51-608101826886.png)
+![dragons2](https://user-images.githubusercontent.com/106772807/219825040-ea803704-5918-433d-a4cd-d49aaa246ada.png)
+
+  
   
   <div align="center" margin="50px">
 	  <a href = "mailto:cristiane@samaan.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_white"></a>
